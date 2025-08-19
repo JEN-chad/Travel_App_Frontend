@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+
+:root {
+  --color-background: #fafafa;
+  --color-primary: #ff6525;
+  --color-text: #363030;
+  --color-accent: #d2d2d2;
+  --color-border: #707070;
+  --color-overlay: rgba(0, 0, 0, 0.3);
+
+  --font-poppins: "Poppins", sans-serif;
+}
+
+* {
+  font-family: var(--font-poppins);
+}
+
+body {
+  background-color: var(--color-background);
+}
+
+.material-symbols-outlined {
+  font-size: 28px; /* set default size */
+}
+

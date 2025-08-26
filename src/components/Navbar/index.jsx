@@ -5,7 +5,7 @@ export const Navbar = () => {
         <div>
           {/* Title */}
           <h1 className="text-[var(--color-primary)] font-bold text-3xl cursor-pointer">
-            TravelO
+            ZyAra
           </h1>
         </div>
         <div className="flex items-center justify-between bg-white shadow-md rounded-full px-4 py-2 w-fit">
